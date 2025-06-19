@@ -1,4 +1,5 @@
 📦 Project Title: Foodie Delivery Insights Dashboard  
+![cover ](https://github.com/user-attachments/assets/f17e42b4-cbc6-43b5-88fc-22d0568ad382)
 
 📊 Overview  
 

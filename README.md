@@ -31,11 +31,15 @@ Using iterative design and feedback, the final Power BI dashboard includes:
 •	Mid-budget restaurants often receive better food quality scores     
 
 📁 Project Assets  
-├── /images/                    # Dashboard screenshots  
-├── foodie_delivery.pdf        # Full dashboard presentation/report  
-├── Foodie_Delivery.xlsx          # Cleaned and structured dataset  
-├── Foodie_Dashboard.pbix         # Power BI dashboard file  
-└── README.md                     # Project documentation  
+
+| File                         | Description                                     |
+|------------------------------|-------------------------------------------------|
+| `foodie_delivery.pdf ` | Cleaned and structured dataset     |
+| `images.PNG` | Dashboard screenshots   |
+| `Foodie_Delivery.xlsx `                  | Full dashboard presentation             |
+| `Foodie_Dashboard.pbix`                  | Power BI dashboard file              |
+| `README.md`                  | Project overview and documentation              |
+
 
 🙋‍♀️ About the Creator
 
